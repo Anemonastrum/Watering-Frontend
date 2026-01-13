@@ -91,7 +91,7 @@ export default function Dashboard() {
         <div className="min-h-screen bg-[#F2F2F7] flex justify-center px-4 py-6 pb-24">
             <div className="w-full max-w-[402px] flex flex-col gap-6">
                 {/* DEVICE HEADER */}
-                <div className=" rounded-[20px] px-4 py-5">
+                <div className="bg-white rounded-[20px] px-4 py-5">
                     {/* TOP ROW */}
                     <div className="flex items-center justify-between h-[52px] mb-4">
 

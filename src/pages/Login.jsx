@@ -54,7 +54,7 @@ export default function Login() {
             <img
                 src="https://filtered.anemona.cloud/hydro.svg"
                 alt="Hydro Element"
-                className="w-[300px] h-[300px] object-cover rounded-[999px] bg-white outline-2 outline-solid" 
+                className="w-[300px] h-[300px] object-cover rounded-[999px] bg-white" 
                 loading="lazy"
             />
           </div>
